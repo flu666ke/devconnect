@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://fluke666:fluke666@devconnector-ktmw0.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "08b86da99a93ea3e0b0d",
+  "githubSecret": "5a761efb835fc664de379078dd58bca5981092e7"
+}
